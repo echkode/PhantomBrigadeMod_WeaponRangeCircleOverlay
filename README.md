@@ -1,5 +1,7 @@
 # WeaponRangeCircleOverlay
 
+**This mod is obsolete.** There have been two minor releases of the game since this work was done and much has changed.
+
 A library mod for [Phantom Brigade](https://braceyourselfgames.com/phantom-brigade/) that demonstrates how to add a custom range overlay.
 
 It is compatible with game version **1.1.2-b5993** (Epic/Steam).
